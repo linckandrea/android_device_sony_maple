@@ -25,7 +25,7 @@ PRODUCT_PLATFORM := yoshino
 TARGET_BOOTLOADER_BOARD_NAME := G8141
 
 ### KERNEL
-TARGET_KERNEL_CONFIG := lineage-msm8998-yoshino-maple_defconfig
+TARGET_KERNEL_CONFIG := lineage-msm8998-yoshino-maple_dsds_defconfig
 
 BOARD_KERNEL_CMDLINE += androidboot.hardware=maple
 
